@@ -2,13 +2,15 @@
 
 **Taxonomy Migrate** is an essential WordPress plugin for shop owners and content managers who handle numerous posts or products. It simplifies the process of categorizing and organizing content, especially when dealing with multiple custom taxonomies or WooCommerce attributes.
 
+![Taxonomy Migrate Image](https://raw.githubusercontent.com/lirrensi/wp-taxonomy-migrate/refs/heads/main/img.png)
+
 ## Features
 
-- **Flexible Migration**: Easily select source and destination taxonomies and terms for migration.
-- **Post Count Visibility**: View the number of posts assigned to each term before migration.
-- **Term Deletion Option**: Optionally delete the source term after migration.
-- **Action Scheduler Support**: Utilize the Action Scheduler for handling large migrations efficiently.
-- **Intuitive Interface**: Features searchable dropdown fields and hierarchical term display for easy navigation.
+-   **Flexible Migration**: Easily select source and destination taxonomies and terms for migration.
+-   **Post Count Visibility**: View the number of posts assigned to each term before migration.
+-   **Term Deletion Option**: Optionally delete the source term after migration.
+-   **Action Scheduler Support**: Utilize the Action Scheduler for handling large migrations efficiently.
+-   **Intuitive Interface**: Features searchable dropdown fields and hierarchical term display for easy navigation.
 
 ## Usage
 
@@ -22,20 +24,20 @@
 
 ## Options
 
-- **Delete Source Term**: Automatically remove the source term after successful migration.
-- **Use Action Scheduler**: Leverage the Action Scheduler for background processing of large migrations.
+-   **Delete Source Term**: Automatically remove the source term after successful migration.
+-   **Use Action Scheduler**: Leverage the Action Scheduler for background processing of large migrations.
 
 ## Requirements
 
-- **WordPress**: Version 5.0 or higher.
-- **Action Scheduler**: Required for scheduling features, included with WooCommerce.
+-   **WordPress**: Version 5.0 or higher.
+-   **Action Scheduler**: Required for scheduling features, included with WooCommerce.
 
 ## Notes
 
-- The plugin ensures data integrity through database transactions.
-- If using the Action Scheduler, ensure WooCommerce is installed or the library is available.
-- Terms are displayed hierarchically for easy identification.
-- The plugin displays the number of posts per term in the selection dropdown.
+-   The plugin ensures data integrity through database transactions.
+-   If using the Action Scheduler, ensure WooCommerce is installed or the library is available.
+-   Terms are displayed hierarchically for easy identification.
+-   The plugin displays the number of posts per term in the selection dropdown.
 
 ## Contributing
 
